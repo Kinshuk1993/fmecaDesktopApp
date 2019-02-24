@@ -1,4 +1,4 @@
-# fmecaDesktopApp
+# FMECA Desktop Application for Competent Authorities
 A sample UI based desktop application for FMECA hazard analysis technique
 a technique that will help CAs meet their requirements under new NIS Directive. For example, there is a need for tools that can be used by inspectors or by companies to show whether or not a particular system/process/operation meets reliability requirements.
 
